@@ -12,23 +12,19 @@ A simple, stylish Todo List web app built with TypeScript, HTML, and CSS.
 ## Project Structure
 
 ```
-dom.html
 index.html
 README.md
 stayel.css
 todo.js
 todo.ts
-audios/
-  audio_DOM.ogg
-  audio_DOM2.ogg
-  audio_vertualDOM.ogg
+screenshot.png
 ```
 
 - `index.html`: Main HTML file for the app
 - `stayel.css`: Custom styles for layout and design
 - `todo.ts`: TypeScript source for Todo logic
 - `todo.js`: Compiled JavaScript (from `todo.ts`)
-- `audios/`: Audio files (not used in the main app)
+- `screenshot.png`: Example screenshot of the app
 
 ## Getting Started
 
@@ -47,8 +43,7 @@ audios/
 
 ## Example Screenshot
 
-![Screenshot](screenshot.png)
-_(Add a screenshot of your app here if available)_
+![Screenshot of the app](screenshot.png)
 
 ## Dependencies
 
