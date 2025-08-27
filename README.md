@@ -43,7 +43,7 @@ screenshot.png
 
 ## Example Screenshot
 
-![Screenshot of the app](screenshot.png)
+![Screenshot of the app](Screenshot.png)
 
 ## Dependencies
 
